@@ -1,0 +1,1 @@
+data = "komeng gendut syekali"

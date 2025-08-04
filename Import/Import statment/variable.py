@@ -1,0 +1,1 @@
+data = "Kanyaa biutupul syekali"
